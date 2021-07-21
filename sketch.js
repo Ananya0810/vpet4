@@ -58,7 +58,7 @@ fill("black")
 textSize(30)
 text("virtual pet 4",306,50)
 
-text("fedtime;"+ milk1.getfeedTime)
+text("fedtime;"+ milk1.getfeedTime,50,150)
 milk1.buttons()
 milk1.milkImg()
 
